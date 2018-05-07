@@ -1,0 +1,165 @@
+1: Graphs -- BFS, DFS, 1 weight of min spanning tree -- graph: set of vertices, and edges -- G ( V , E )
+2: Tree -- pre, in, post, balance AVL 
+3: Stacks --  (iterative and recursive)
+4: List -- output, add, delete
+5: Queue --  *****Array based OR list based ::
+6: General
+
+pre-order, post-order, in-order- dfs of tree- stack * can be either
+level order - BFS
+
+*********************************************************************************************
+
+void preOrder(Node *root) {
+if (root == NULL)
+cout << root->val;
+preOrder(root->left)
+preOrder(root->right)
+
+now to iterative version **
+
+void preOrder(Node *root) {
+stack <Node*> st;
+st.push(root);
+while ( ! st.empty())
+node*t = st.top();
+st.pop();
+cout << root-> val;
+if (root-> right ) st.push(  )
+if (root-> left ) st.push(  )
+
+level -order BFS **
+
+void levelOrder(Node *root) {
+queue <Node*> Q;
+Q.push(root);
+while ( ! Q.empty())
+node*t = Q.front();
+Q.pop();
+cout << root-> val;
+if (root-> left ) st.push(  )
+if (root-> right ) st.push(  )
+
+*********************************************************************************************
+True/ False Questions
+
+array, list, stack, queue, bast, hash_table
+^ all of these based on array or list
+differences b/w array and list:
+array: advantage: random access
+list: frequent modification (insert, erase)
+^ list more efficient just change pointer
+
+search array O(1), search list O(n)**
+
+stack: DFS  recursive, iterative
+queue: BFS priority queue (ex. top 10 elements, klog(n), otherwise nlog(n)), (heap data structure)
+	heap: 
+bst: red-black tree (AVL needs to balance and rotate, not efficient, red black tree highly balanced but not fully)
+hash_table ( save time compared to bst, but more space needed to create large array )
+*space and time complexity to determine which to use
+
+if have same random access and freq modification between list or array, can use dequeue (double queue)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Q1: Graphs
+    I-5 
+    II-5 
+    III-5
+
+    BFS, DFS, wieght of min spanning tree **google this
+
+Q2: Tree
+    I-10 
+    II-15
+
+    (Pre, In, Post) -> Recursion -> Iteration using stacks DFS, balance AVL tree
+
+    // Recursion
+    void preOrder (Node * root) {
+        if (root == NULL) return; 
+        cout << root->val;
+        preOrder(root->left);
+        preOrder(root->right);
+    }
+
+    // Iteration
+    void preOrder (Node * root) {
+        stack<Node*> st;
+        st.push(root);
+        while (!st.empty()) {
+            Node * t = st.top(); st.pop();
+            cout << root->val;
+            if (root->right) st.push(root->right);
+            if (root->left) st.push(root->left);
+        }
+    }
+
+Q3: Stacks **DFS -> any of the three (pre, in, post)
+    I-5 
+    II-5
+
+    Programming
+
+Q4: List
+    I-5 
+    II-10 
+    III-5
+
+    Output, Add, Delete, ....
+
+Q5: Queue **BFS -> level order
+    I-5 
+    II-5
+
+    push, pop, BFS of tree
+    Array based OR List based
+
+    // iterative
+    void levelOrder (Node * root) {
+        queue<Node*> q;
+        q.push(root);
+        while (!q.empty()) {
+            Node * t = q.top(); q.pop();
+            cout << root->val;
+            if (root->left) q.push(root->left);
+            if (root->right) q.push(root->right);
+        }
+    }
+
+Q6: General
+    I-11 True / False
+    II-9 Big O
+
+    array -> random access
+    list -> frequent modification (insert, erase)
+    ~~~~~~
+    -stack -> DFS - Recursive->Iterative
+    -queue -> BFS, priority-queue (heap)-> top K element - Klog(n), using sorting - nlog(n)
+    --bst -> Red-Black tree - O(log(n)) *saves space compared to hash_table
+    --hash_table -> *saves time compared to bst
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ian's Review Session
+
+Graphs - BFS, DFS, Min Span Tree, Dijkstra's Alg. -> Tracing
+
+Trees - Pre, In, Post, Add things to Tree, Balance Tree
+
+Stack - Know how to use
+
+List - Array List, Linked List (Know how to use, Know their differences)
+
+Queue - Know how to use, Know Major functions of Queue (Insert, Delete, Search)
+
+General - T/F, Big O (Know how to order different efficiencies) Complexities of sorts (Insert, Bubble, Quick, Heap, Merge, Shell)
+
+3 Point Bonus
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+30 Questions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(364): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(372): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(382): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(412): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(423): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(440): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(442): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(450): warning C4244: 'argument': conversion from 'unsigned __int64' to 'char', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(453): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(522): warning C4715: 'add': not all control paths return a value
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(579): warning C4715: 'sub': not all control paths return a value
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(630): warning C4715: 'mult': not all control paths return a value
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(668): warning C4715: 'div': not all control paths return a value
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\main.cpp(688): warning C4715: 'calculate': not all control paths return a value
+c:\users\vyas0\desktop\c++\cosc2430\hw2\hw2\stackheader.h(42): warning C4715: 'Stack<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::top': not all control paths return a value
+  hw2.vcxproj -> C:\Users\vyas0\Desktop\C++\COSC2430\hw2\Debug\hw2.exe

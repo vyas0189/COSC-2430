@@ -1,0 +1,154 @@
+Melon:28:1
+Grapefruit:36:1
+Peach:30:1
+Red Onion:33:1
+Dry Mushrooms:12:1
+Stewed Tomato:70:1
+Cheddar Cheese:260:4
+Boiled Leek:19:1
+Apple:44:1
+Soy Milk:36:4
+Cottage Cheese:80:4
+Sardines in Oil:220:2
+Ryvita + Seed & Oats:362:3
+Banana:65:1
+Dry Beans:80:1
+Boiled Beans:130:1
+Blackberries:25:1
+Blackcurrant:32:1
+Broccoli:34:1
+Cabbage:22:1
+Carrot:24:1
+Boiled Cauliflower:29:1
+Boiled Celery:1
+Cherry:51:1
+Courgette:21:1
+Cucumber:10:1
+Dates:235:1
+Grapes:62:1
+Kiwi:50:1
+Lentils:100:1
+Lettuce:14:1
+Fresh Mushrooms:15:1
+Steamed Mushrooms:145:1
+Olives:81:1
+Boiled Onion:18:1
+Spring Onions:26:1
+Fried Onion:155:1
+Orange:31:1
+Fresh Peas:148:1
+Steamed Peas:120:1
+Pear:38:1
+Pepper:16:1
+Pineapple:40:1
+Plum:39:1
+Spinach:8:1
+Strawberries:27:1
+Sweetcorn:71:1
+Fresh Tomato:20:1
+Watercress:17:1
+Anchovies:301:2
+Fried Bacon:500:2
+Grilled Bacon:380:2
+Roast Beef:279:2
+Beef Burgers:281:2
+Chicken:203:2
+Cockles:50:2
+Cod Fresh:101:2
+Fried Cod:201:2
+Fresh Crab:111:2
+Roast Duck:430:2
+Fish Cake:204:2
+Fish Fingers:221:2
+Gammon:282:2
+Fresh Haddock:110:2
+Fresh Halibut:125:2
+Ham:241:2
+Grilled Herring:202:2
+Kidney:161:2
+Kipper:121:2
+Liver:150:2
+Pate Liver:303:2
+Roast Lamb:300:2
+Broiled Lobster:102:2
+Luncheon Meat:400:2
+Mackerel:302:2
+Mussels:90:2
+Roast Pheasant:200:2
+Tinned Pilchards:140:2
+Prawns:100:2
+Pork:290:2
+Pork Pie:450:2
+Rabbit:181:2
+Fresh Salmon:182:2
+Fried Sausage:320:2
+Grilled Sausage:280:2
+Sausage Roll:480:2
+Shrimp Scampi:340:2
+Steak Pie:350:2
+Taramasalata:490:2
+Fresh Trout:120:2
+Tuna in Water:99:2
+Tuna in Oil:180:2
+Turkey:160:2
+Veal:240:2
+Bagel:310:3
+Biscuit:480:3
+Jaffa Cake:370:3
+White Bread:240:3
+Wheat Bread:220:3
+Cracker Bread:325:3
+Cream Crackers:440:3
+Chapatis:300:3
+Cornflakes:371:3
+Crumpets:198:3
+Flapjacks:321:3
+Macaroni:95:3
+Muesli:390:3
+Naan:320:3
+Noodles:70:3
+Fresh Pasta:110:3
+Wheat Pasta:105:3
+Porridge Oats:55:3
+Boiled Potatoes:71:3
+Roast Potatoes:140:3
+White Rice:141:3
+Fried Rice:200:3
+Brown Rice:135:3
+Rice Cakes:373:3
+Ryvita Multi Grain:331:3
+Spaghetti:101:3
+Cheese:440:4
+Cream Cheese:428:4
+Half & Half Cream:160:4
+Heavy Cream:430:4
+Clotted Cream:600:4
+Custard:100:4
+Eggs:150:4
+Fried Eggs:181:4
+Creme Fraiche:125:4
+Ice Cream:180:4
+Whole Milk:70:4
+2% Milk:50:4
+Skim Milk:38:4
+Mousse:140:4
+Omelette:266:4
+Trifle with Cream:190:4
+Greek Yogurt:60:4
+Reduced Fat Yogurt:45:4
+Tortilla:62:3
+Flatbread:207:3
+Risotto:174:3
+Baguette:316:3
+Sourdough:307:3
+Almond Milk:56:4
+Coconut Milk:34:4
+Coconut Water:3:4
+Coconut Cream:48:4
+Cashew Milk:24:4
+Rice Milk:112:4
+Cream Cheese:291:4
+Sour Cream:123:4
+Egg Whites:17:4
+Egg Substitute:44:4
+Probiotic Shake:47:4
