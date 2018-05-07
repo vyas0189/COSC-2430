@@ -1,7 +1,0 @@
-//AVL
-
-/*
-    -Insert
-    -postOrder
-    -Delete
-*/
